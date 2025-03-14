@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/EasyTix/static/css/main.b8948bfa.chunk.css",
+    "main.js": "/EasyTix/static/js/main.2326a0d0.chunk.js",
+    "main.js.map": "/EasyTix/static/js/main.2326a0d0.chunk.js.map",
+    "runtime-main.js": "/EasyTix/static/js/runtime-main.061a152d.js",
+    "runtime-main.js.map": "/EasyTix/static/js/runtime-main.061a152d.js.map",
+    "static/js/2.c71032d5.chunk.js": "/EasyTix/static/js/2.c71032d5.chunk.js",
+    "static/js/2.c71032d5.chunk.js.map": "/EasyTix/static/js/2.c71032d5.chunk.js.map",
+    "index.html": "/EasyTix/index.html",
+    "static/css/main.b8948bfa.chunk.css.map": "/EasyTix/static/css/main.b8948bfa.chunk.css.map",
+    "static/js/2.c71032d5.chunk.js.LICENSE.txt": "/EasyTix/static/js/2.c71032d5.chunk.js.LICENSE.txt",
+    "static/media/Ticket.css": "/EasyTix/static/media/sky.61aa90b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.061a152d.js",
+    "static/js/2.c71032d5.chunk.js",
+    "static/css/main.b8948bfa.chunk.css",
+    "static/js/main.2326a0d0.chunk.js"
+  ]
+}
